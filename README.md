@@ -1,1 +1,1 @@
-node version 18.5.0
+node version >= 18.5.0
